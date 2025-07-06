@@ -1,0 +1,4 @@
+{
+  "jekyll.suggestions.enable": true, // 启用智能提示
+  "jekyll.validate.enable": true     // 启用语法验证
+}
